@@ -2,4 +2,4 @@
 
 the portfolio repo
 
-**[Live](https://swami01.github.io/)**
+**[Visit Now](https://swami01.github.io/)**
